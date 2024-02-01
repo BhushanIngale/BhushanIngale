@@ -1,5 +1,5 @@
 ## About Me:
-As an AI enthusiast, I am looking forward to an opportunity to contribute my knowledge and experience of Programming, Analysis, Optimisation and Presentation to an organisation while constantly enhancing my skills.<br>I am highly organised, detail-oriented, and have strong communication skills.<br>Besides Machine Learning, I have a keen interest in Computer Vision.<br><br>🔭 I’m currently working on Project: Neural Networks from Scratch in raw Python.<br>🌱 I’m currently learning PyTorch, LSTM Networks & GANs<br>📫 You can reach me at: www.linkedin.com/in/bhushan-ingale<br>⚡ Fun fact: Apart from being a Computer Engineer, I am also an Award-Winning Screenwriter & Filmmaker!
+As an AI enthusiast, I am looking forward to an opportunity to contribute my knowledge and experience of Programming, Analysis, Optimisation and Presentation to an organisation while constantly enhancing my skills.<br>I am highly organised, detail-oriented, and have strong communication skills.<br>Besides Machine Learning, I have a keen interest in Computer Vision.<br><br>🌱 I’m currently learning PyTorch, LSTM Networks & GANs<br>📫 You can reach me at: www.linkedin.com/in/bhushan-ingale<br>
 
 
 ## Socials:
